@@ -1,0 +1,45 @@
+body {
+    background-image: url('BG.GIF');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  h1 {
+  border-style: solid;
+  border-color: orange;
+  padding: 15px;
+  border-image: url('vc.JPG') 30 stretch;
+  background-image: url(img_flwr.gif), url(hc.JPEG);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+  h2 {
+   background-image: url(img_flwr.gif), url(sd.JPEG);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+  h3 {
+    background-color:#808080;
+    color: white;
+  }
+  
+  P {
+    background-color:#FFFFE0;
+    color: white;
+  }
+  
+  img {
+    border-radius: 50%;
+  }
+  .bb {
+    background-color: red;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
